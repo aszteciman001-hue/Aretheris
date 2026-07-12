@@ -1,0 +1,6 @@
+{
+  "name": "Aretheris Technologies",
+  "description": "A modern, highly animated, and interactive landing page for Aretheris Technologies, a pioneer in quantum-neural cloud computing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
